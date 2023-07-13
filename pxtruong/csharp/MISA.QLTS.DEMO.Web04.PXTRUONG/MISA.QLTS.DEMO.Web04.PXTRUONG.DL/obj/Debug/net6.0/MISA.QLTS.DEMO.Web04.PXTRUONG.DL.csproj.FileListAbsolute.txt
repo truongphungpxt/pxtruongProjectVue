@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Web-04-PXTRUONG\web-04-vue\web202304\pxtruong\aspnetcore\MISA.QLTS.DEMO.Web04.PXTRUONG\MISA.QLTS.DEMO.Web04.PXTRUONG.DL\bin\Debug\net6.0\MISA.QLTS.DEMO.Web04.PXTRUONG.DL.deps.json
+C:\Users\Admin\Desktop\Web-04-PXTRUONG\web-04-vue\web202304\pxtruong\aspnetcore\MISA.QLTS.DEMO.Web04.PXTRUONG\MISA.QLTS.DEMO.Web04.PXTRUONG.DL\bin\Debug\net6.0\MISA.QLTS.DEMO.Web04.PXTRUONG.DL.dll
+C:\Users\Admin\Desktop\Web-04-PXTRUONG\web-04-vue\web202304\pxtruong\aspnetcore\MISA.QLTS.DEMO.Web04.PXTRUONG\MISA.QLTS.DEMO.Web04.PXTRUONG.DL\bin\Debug\net6.0\MISA.QLTS.DEMO.Web04.PXTRUONG.DL.pdb
+C:\Users\Admin\Desktop\Web-04-PXTRUONG\web-04-vue\web202304\pxtruong\aspnetcore\MISA.QLTS.DEMO.Web04.PXTRUONG\MISA.QLTS.DEMO.Web04.PXTRUONG.DL\bin\Debug\net6.0\MISA.QLTS.DEMO.Web04.PXTRUONG.Comon.dll
+C:\Users\Admin\Desktop\Web-04-PXTRUONG\web-04-vue\web202304\pxtruong\aspnetcore\MISA.QLTS.DEMO.Web04.PXTRUONG\MISA.QLTS.DEMO.Web04.PXTRUONG.DL\bin\Debug\net6.0\MISA.QLTS.DEMO.Web04.PXTRUONG.Comon.pdb
+C:\Users\Admin\Desktop\Web-04-PXTRUONG\web-04-vue\web202304\pxtruong\aspnetcore\MISA.QLTS.DEMO.Web04.PXTRUONG\MISA.QLTS.DEMO.Web04.PXTRUONG.DL\obj\Debug\net6.0\MISA.QLTS.DEMO.Web04.PXTRUONG.DL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Web-04-PXTRUONG\web-04-vue\web202304\pxtruong\aspnetcore\MISA.QLTS.DEMO.Web04.PXTRUONG\MISA.QLTS.DEMO.Web04.PXTRUONG.DL\obj\Debug\net6.0\MISA.QLTS.DEMO.Web04.PXTRUONG.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Web-04-PXTRUONG\web-04-vue\web202304\pxtruong\aspnetcore\MISA.QLTS.DEMO.Web04.PXTRUONG\MISA.QLTS.DEMO.Web04.PXTRUONG.DL\obj\Debug\net6.0\MISA.QLTS.DEMO.Web04.PXTRUONG.DL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Web-04-PXTRUONG\web-04-vue\web202304\pxtruong\aspnetcore\MISA.QLTS.DEMO.Web04.PXTRUONG\MISA.QLTS.DEMO.Web04.PXTRUONG.DL\obj\Debug\net6.0\MISA.QLTS.DEMO.Web04.PXTRUONG.DL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Web-04-PXTRUONG\web-04-vue\web202304\pxtruong\aspnetcore\MISA.QLTS.DEMO.Web04.PXTRUONG\MISA.QLTS.DEMO.Web04.PXTRUONG.DL\obj\Debug\net6.0\MISA.QLTS.DEMO.Web04.PXTRUONG.DL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Web-04-PXTRUONG\web-04-vue\web202304\pxtruong\aspnetcore\MISA.QLTS.DEMO.Web04.PXTRUONG\MISA.QLTS.DEMO.Web04.PXTRUONG.DL\obj\Debug\net6.0\MISA.QLTS.DEMO.Web04.PXTRUONG.DL.csproj.CopyComplete
+C:\Users\Admin\Desktop\Web-04-PXTRUONG\web-04-vue\web202304\pxtruong\aspnetcore\MISA.QLTS.DEMO.Web04.PXTRUONG\MISA.QLTS.DEMO.Web04.PXTRUONG.DL\obj\Debug\net6.0\MISA.QLTS.DEMO.Web04.PXTRUONG.DL.dll
+C:\Users\Admin\Desktop\Web-04-PXTRUONG\web-04-vue\web202304\pxtruong\aspnetcore\MISA.QLTS.DEMO.Web04.PXTRUONG\MISA.QLTS.DEMO.Web04.PXTRUONG.DL\obj\Debug\net6.0\refint\MISA.QLTS.DEMO.Web04.PXTRUONG.DL.dll
+C:\Users\Admin\Desktop\Web-04-PXTRUONG\web-04-vue\web202304\pxtruong\aspnetcore\MISA.QLTS.DEMO.Web04.PXTRUONG\MISA.QLTS.DEMO.Web04.PXTRUONG.DL\obj\Debug\net6.0\MISA.QLTS.DEMO.Web04.PXTRUONG.DL.pdb
+C:\Users\Admin\Desktop\Web-04-PXTRUONG\web-04-vue\web202304\pxtruong\aspnetcore\MISA.QLTS.DEMO.Web04.PXTRUONG\MISA.QLTS.DEMO.Web04.PXTRUONG.DL\obj\Debug\net6.0\ref\MISA.QLTS.DEMO.Web04.PXTRUONG.DL.dll

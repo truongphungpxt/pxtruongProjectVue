@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MISA.QLTS.DEMO.Web04.PXTRUONG.props" />
+</Project>
