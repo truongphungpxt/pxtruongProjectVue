@@ -3085,11 +3085,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Web-04-PXTRUONG\\web-04-vue\\web202304\\pxtruong\\aspnetcore\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\pxtruongProjectVue\\pxtruong\\csharp\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG.csproj",
       "projectName": "MISA.QLTS.DEMO.Web04.PXTRUONG",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Web-04-PXTRUONG\\web-04-vue\\web202304\\pxtruong\\aspnetcore\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\pxtruongProjectVue\\pxtruong\\csharp\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Web-04-PXTRUONG\\web-04-vue\\web202304\\pxtruong\\aspnetcore\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\pxtruongProjectVue\\pxtruong\\csharp\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3106,8 +3106,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\Desktop\\Web-04-PXTRUONG\\web-04-vue\\web202304\\pxtruong\\aspnetcore\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG.BL\\MISA.QLTS.DEMO.Web04.PXTRUONG.BL.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\Web-04-PXTRUONG\\web-04-vue\\web202304\\pxtruong\\aspnetcore\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG.BL\\MISA.QLTS.DEMO.Web04.PXTRUONG.BL.csproj"
+            "C:\\Users\\Admin\\Documents\\GitHub\\pxtruongProjectVue\\pxtruong\\csharp\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG.BL\\MISA.QLTS.DEMO.Web04.PXTRUONG.BL.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\pxtruongProjectVue\\pxtruong\\csharp\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG.BL\\MISA.QLTS.DEMO.Web04.PXTRUONG.BL.csproj"
             }
           }
         }

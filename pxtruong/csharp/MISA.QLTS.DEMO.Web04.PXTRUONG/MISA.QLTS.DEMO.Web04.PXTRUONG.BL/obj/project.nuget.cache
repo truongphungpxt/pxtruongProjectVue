@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0lHrE9fvKrMQbsjV/jYNTzqdn8mbAgblLwJgip8GY4GD+CsAM5CwntrAij/QwVvOFqE8kpl8GgKIo6eJX0lNvw==",
+  "dgSpecHash": "FrEjKoTbHBMc/HY2p5eLYvobeyEECnSEO9jr4j7crhdQFwiclnHDhGr0snN/sm6AuaqpN+1S2k2J5PBGBbgoGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Web-04-PXTRUONG\\web-04-vue\\web202304\\pxtruong\\aspnetcore\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG.BL\\MISA.QLTS.DEMO.Web04.PXTRUONG.BL.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\pxtruongProjectVue\\pxtruong\\csharp\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG.BL\\MISA.QLTS.DEMO.Web04.PXTRUONG.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -1,0 +1,99 @@
+.button__display{
+    display: flex;
+    column-gap: 20px;
+}
+.button{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow:ellipsis ;
+    margin:unset;
+	min-width: 79px;
+    height: 38px;
+    border-radius: 4px;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 36px;
+    min-width: 90px;
+    color: #fff;
+    border: unset;
+}
+.button_paging{
+    border: unset;
+    background-color: unset;
+}
+.button__paging--selected{
+    background-color: #f5f5f5;
+    border-radius: 4px;
+}
+ button:hover{
+    cursor:pointer;
+}   
+.button--blue{
+    background-color:   #1aa4c8;
+}
+.button--blue:hover{
+    background-color:  #21c6f0;
+}
+.button--blue:active{
+   border: 1px solid #21c7f05e;
+}
+.button--blue:focus{
+    outline: unset;
+    background-color:  #21c7f060;
+}
+.button--white{
+    background-color: #FFFFFF;
+    border: 1px solid #E6E6E6;
+    color: #1F1F1F;
+
+} 
+.button--white:focus{
+    outline:1px solid #1aa4c8;
+}
+
+.button__boder--blue{
+    border: 1px solid  #1aa4c8;
+    color:  #1aa4c8;
+}
+.button__combobutton{
+    padding-left: 16px;
+    padding-right: 12px;
+    width: calc(114px - 36px) ;
+    text-align: left;
+    border-radius: 4px 0px 0px 4px ;
+    margin: 0px;
+}
+.button__icon{
+    background-repeat: no-repeat;
+    background-size: 12px;
+    
+}
+
+.button__combobutton--container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 1px;
+    
+}
+.button__combobutton--container:hover{
+    cursor: pointer;
+}
+.button__link{
+    color:#21c6f0 ;
+    font-weight: 500;
+    font-size: 13px;
+    border: 1px solid #21c6f0;
+    background-color: rgba(26, 164, 200, .2);
+}
+.button__link:hover{
+    background-color: #FFFFFF;
+}
+.button__link:focus{
+    outline: unset;
+    border: 1px solid #21c7f058;
+
+}
+

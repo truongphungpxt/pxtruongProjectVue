@@ -1,0 +1,31 @@
+.alert{
+    background-color:#ffff;
+    display: flex;
+    flex-direction: column;
+    padding: 24px 24px;
+    border-radius: 4px;
+    width: 366px;
+    height: 132px;
+    box-sizing: unset !important;
+    position: fixed;
+    top: 35%;
+    right: 32%; 
+    justify-content: space-between;
+}
+.alert__content--container{
+    display: flex;
+    height: 70%;
+    justify-content: start;
+    align-items: center;
+    column-gap: 24px;
+}
+.elert__button--container{
+    display: flex;
+    column-gap: 8px;
+    justify-content: end;
+}
+.font__bold{
+    font-weight: 700;
+    font-size: 14px;
+    color: #1F1F1F;
+}

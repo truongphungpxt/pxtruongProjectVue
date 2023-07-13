@@ -1059,11 +1059,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Web-04-PXTRUONG\\web-04-vue\\web202304\\pxtruong\\aspnetcore\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG.Comon\\MISA.QLTS.DEMO.Web04.PXTRUONG.Comon.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\pxtruongProjectVue\\pxtruong\\csharp\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG.Comon\\MISA.QLTS.DEMO.Web04.PXTRUONG.Comon.csproj",
       "projectName": "MISA.QLTS.DEMO.Web04.PXTRUONG.Comon",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Web-04-PXTRUONG\\web-04-vue\\web202304\\pxtruong\\aspnetcore\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG.Comon\\MISA.QLTS.DEMO.Web04.PXTRUONG.Comon.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\pxtruongProjectVue\\pxtruong\\csharp\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG.Comon\\MISA.QLTS.DEMO.Web04.PXTRUONG.Comon.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Web-04-PXTRUONG\\web-04-vue\\web202304\\pxtruong\\aspnetcore\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG.Comon\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\pxtruongProjectVue\\pxtruong\\csharp\\MISA.QLTS.DEMO.Web04.PXTRUONG\\MISA.QLTS.DEMO.Web04.PXTRUONG.Comon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

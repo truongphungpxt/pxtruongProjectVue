@@ -1,0 +1,148 @@
+.body {
+    background-color: bisque;
+    height: calc(100vh - 48px );
+    width: calc(100% - 14% );
+    float: left;
+    background-color: #f4f7ff;
+   padding-left: 15px;
+   padding-right: 15px;
+   padding-top: 12px;
+   padding-bottom: 15px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+}
+
+.body__header {
+   
+    background-color: #f4f7ff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 8px
+    /* padding-bottom: 12px;
+    padding-top: 12px;
+    padding-left: 24px; */
+}
+
+
+
+
+.body__header--left {
+    display: flex;
+    column-gap: 10px;
+
+    
+}
+.body__header--leftcontainer{
+    height: 36px;
+    position: relative;
+}
+
+/* .input__field{
+    padding-left: 30px;
+} */
+.popup__input {
+    width: 90% !important;
+}
+
+.body__header--inputsearch {
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+
+.body__header--asset {
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+
+.body__header--tool {
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+
+.body__header--right {
+    display: flex;
+    align-items: center;
+    column-gap: 14px;
+    padding-right: 12px;
+}
+
+.table {
+    width: 100%;
+    height: 100% !important;
+
+}
+
+.table tr td {
+    height: 56px !important;
+
+}
+
+.table__footer td {
+    max-height: 56px;
+}
+
+.table__footer--left {
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+}
+
+.table__footer--width {
+    width: 20px !important;
+}
+
+.tfoot__custom--setwidth {
+    padding: unset;
+    width: 60px;
+    height: 30px;
+}
+
+.tfoot__custom--setwidth::placeholder {
+    font-size: 14px;
+    padding-left: 14px !important;
+}
+
+.tfoot__icon {
+    position: absolute;
+    left: 40px;
+    width: 24px;
+    height: 24px;
+}
+
+.table__footer--containerbutton {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 61px;
+}
+.table__footer--containerbutton input{
+    text-align: center;
+}
+
+.tfoot__paging--content {
+    display: flex;
+    align-items: center;
+    column-gap: 14px;
+}
+
+.tfoot__paging {
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+}
+
+.tfoot__bgr {
+    background-color: #eceaea;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 24px;
+    height: 24px;
+}
